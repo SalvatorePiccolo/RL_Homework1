@@ -7,7 +7,7 @@ This package contains the developed code for the first homework of the Robotics 
 ## :hammer: Build
 Clone this package in the `src` folder of your ROS 2 workspace.  If you want to only clone the content files without creating the repo folder, use
 ```
-$ git clone https://github.com/SalvatorePicccolo/RL_Homework1 .
+$ git clone https://github.com/SalvatorePicccolo/RL_Homework1
 ```
 Build the three packages
 ```
